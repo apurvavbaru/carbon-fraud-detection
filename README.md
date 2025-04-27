@@ -1,4 +1,4 @@
-# Ensuring ESG Integrity in Carbon Markets through Llama 3 and Apache Spark
+# Ensuring ESG Integrity in Carbon Markets through Llama 3.2 and Apache Spark
 
 ## Team 1
 
