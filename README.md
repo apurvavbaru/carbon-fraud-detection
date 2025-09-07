@@ -38,17 +38,8 @@ We used a web scraping tool to extract project description data from downloadabl
 *  Llama
 *  Streamlit
 
-## Project Workflow
+## Workflow
 
 <img width="604" alt="Screenshot 2025-04-25 at 1 30 09 PM" src="https://github.com/user-attachments/assets/d6360abc-13e3-4b0b-a6c5-1979183ccf13" />
 
 
-## Project Documents
-
-[Project Flier](https://drive.google.com/file/d/1WjbeXRs95j3J3efh4wAREseQCYQ0oFmc/view?usp=sharing)
-
-Dashboard Prototype (link TBD)
-
-Instructions (document TBD)
-
-[Annotated Bibliography](https://docs.google.com/document/d/1REVrUjHongVOkwz-I0pRcb2i8T3ePSUY-lCRz3s1-EU/edit?usp=sharing)
